@@ -30,3 +30,9 @@ The Main goal of this Readme is
 * View Queries
 * Altering Table Queries
 * Creating Table Query
+
+
+### Finding Data Queries 
+
+
+### **SELECT** : Used to Select Data From Database
