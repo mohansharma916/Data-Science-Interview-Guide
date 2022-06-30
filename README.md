@@ -4,7 +4,7 @@ The Main goal of this Readme is
 - To help you Prepare for Data Science related Interview
 - Some Basic Data Science Concept who wants to learn Data Science
 
-- SQL
+- [SQL](#sql)
 - Statistics & Probability
 - Mathematics
 - Machine Learning Concepts
