@@ -20,3 +20,13 @@ The Main goal of this Readme is
 # Data Science Question Bank
 
 - 
+
+
+# SQL
+
+* Finding Data Queries
+* Data Modification Queries
+* Reporting Queries
+* View Queries
+* Altering Table Queries
+* Creating Table Query
